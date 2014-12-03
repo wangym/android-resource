@@ -18,14 +18,14 @@ Material Design:
 09.https://github.com/dexafree/MaterialList  
 10.https://github.com/traex/RippleEffect  
 
-Framework & Tools:
+Framework:
 -------------
 01.https://github.com/AndroidBootstrap/android-bootstrap  
 02.https://github.com/facebook/buck  
 03.https://github.com/google/dagger  
 04.https://github.com/robolectric/robolectric  
 
-Package & Plugin:
+Plugin:
 -------------
 01.https://github.com/mikepenz/AboutLibraries  
 02.https://github.com/JakeWharton/ActionBarSherlock  
@@ -34,7 +34,7 @@ Package & Plugin:
 05.https://github.com/PareshMayani/Contextual-Action-Bar  
 06.https://github.com/rampo/UpdateChecker  
 
-Source reference:
+Source code:
 -------------
 01.https://github.com/google/iosched  
 02.https://github.com/android/platform_packages_apps_settings  
