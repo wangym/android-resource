@@ -5,6 +5,13 @@ Complex:
 -------------
 01.https://github.com/Trinea/android-open-project  
 
+Framework:
+-------------
+01.https://github.com/AndroidBootstrap/android-bootstrap  
+02.https://github.com/facebook/buck  
+03.https://github.com/google/dagger  
+04.https://github.com/robolectric/robolectric  
+
 Material Design:
 -------------
 01.https://github.com/futuresimple/android-floating-action-button  
@@ -18,13 +25,6 @@ Material Design:
 09.https://github.com/dexafree/MaterialList  
 10.https://github.com/traex/RippleEffect  
 
-Framework:
--------------
-01.https://github.com/AndroidBootstrap/android-bootstrap  
-02.https://github.com/facebook/buck  
-03.https://github.com/google/dagger  
-04.https://github.com/robolectric/robolectric  
-
 Plugin:
 -------------
 01.https://github.com/mikepenz/AboutLibraries  
@@ -33,6 +33,11 @@ Plugin:
 04.https://github.com/nostra13/Android-Universal-Image-Loader  
 05.https://github.com/PareshMayani/Contextual-Action-Bar  
 06.https://github.com/rampo/UpdateChecker  
+
+Sample Apps:
+-------------
+01.https://play.google.com/store/apps/details?id=com.desarrollodroide.repos  02.https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
+03.https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
 
 Source code:
 -------------
