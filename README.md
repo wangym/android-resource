@@ -59,7 +59,7 @@ plugin:
 -------------
 01.https://github.com/47deg/android-swipelistview  
 02.https://github.com/androidquery/androidquery  
-03.https://github.com/bauerca/drag-sort-listview  
+03.https://github.com/bauerca/drag-sort-listview   
 04.https://github.com/chrisbanes/Android-PullToRefresh  
 05.https://github.com/cyrilmottier/GreenDroid  
 06.https://github.com/daCapricorn/ArcMenu  
@@ -69,7 +69,7 @@ plugin:
 10.https://github.com/jfeinstein10/SlidingMenu  
 11.https://github.com/jgilfelt/android-mapviewballoons  
 12.https://github.com/johannilsson/android-actionbar  
-13.https://github.com/julianshen/ScreenCap 
+13.https://github.com/julianshen/ScreenCap  
 14.https://github.com/keyboardsurfer/Crouton  
 15.https://github.com/maurycyw/StaggeredGridView  
 16.https://github.com/mikepenz/AboutLibraries  
