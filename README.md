@@ -36,15 +36,13 @@ material design:
 06.https://github.com/markushi/android-ui  
 07.https://github.com/mikepenz/Android-LollipopShowcase  
 08.https://github.com/navasmdc/MaterialDesignLibrary  
-09.https://github.com/rampo/UpdateChecker  
-10.https://github.com/rengwuxian/MaterialEditText  
-11.https://github.com/traex/RippleEffect  
+09.https://github.com/rengwuxian/MaterialEditText  
+10.https://github.com/traex/RippleEffect  
 
 plugin:
 -------------
 01.https://github.com/androidquery/androidquery  
 02.https://github.com/bauerca/drag-sort-listview  
-03.https://github.com/cgeo/c-geo-opensource  
 04.https://github.com/chrisbanes/Android-PullToRefresh  
 05.https://github.com/cyrilmottier/GreenDroid  
 07.https://github.com/jfeinstein10/SlidingMenu  
@@ -55,21 +53,22 @@ plugin:
 12.https://github.com/nostra13/Android-Universal-Image-Loader  
 13.https://github.com/openaphid/android-flip  
 14.https://github.com/pakerfeldt/android-viewflow  
-15.https://github.com/tjerkw/Android-SlideExpandableListView  
-16.https://github.com/JakeWharton/ActionBarSherlock  
-17.https://github.com/JakeWharton/Android-ViewPagerIndicator  
-18.https://github.com/JakeWharton/NineOldAndroids  
-19.https://github.com/PareshMayani/Contextual-Action-Bar  
-20.https://github.com/SimonVT/android-menudrawer  
+15.https://github.com/rampo/UpdateChecker  
+16.https://github.com/tjerkw/Android-SlideExpandableListView  
+17.https://github.com/JakeWharton/ActionBarSherlock  
+18.https://github.com/JakeWharton/Android-ViewPagerIndicator  
+19.https://github.com/JakeWharton/NineOldAndroids  
+20.https://github.com/PareshMayani/Contextual-Action-Bar  
+21.https://github.com/SimonVT/android-menudrawer  
 
 sample app:
 -------------
 01.https://play.google.com/store/apps/details?id=com.desarrollodroide.repos   02.https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect  
 03.https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
-04.https://github.com/github/gauges-android  
 
 source code:
 -------------
 01.https://github.com/android/platform_packages_apps_settings  
 02.https://github.com/github/android  
 03.https://github.com/google/iosched  
+04.https://github.com/github/gauges-android  
