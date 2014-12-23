@@ -8,10 +8,12 @@ Complex:
 Framework:
 -------------
 01.https://droidpilot.wordpress.com/  
+02.https://github.com/excilys/androidannotations  
 02.https://github.com/facebook/buck  
-03.https://github.com/google/dagger  
-04.https://github.com/robolectric/robolectric  
-05.https://github.com/AndroidBootstrap/android-bootstrap  
+03.https://github.com/google/dagger 
+04.https://github.com/loopj/android-async-http  
+05.https://github.com/robolectric/robolectric  
+06.https://github.com/AndroidBootstrap/android-bootstrap  
 
 Material Design:
 -------------
@@ -29,13 +31,19 @@ Material Design:
 Plugin:
 -------------
 01.https://github.com/chrisbanes/Android-PullToRefresh  
-02.https://github.com/jfeinstein10/SlidingMenu  
-03.https://github.com/mikepenz/AboutLibraries  
-04.https://github.com/nostra13/Android-Universal-Image-Loader  
-05.https://github.com/rampo/UpdateChecker  
-06.https://github.com/JakeWharton/ActionBarSherlock  
-07.https://github.com/JakeWharton/Android-ViewPagerIndicator  
-08.https://github.com/PareshMayani/Contextual-Action-Bar  
+02.https://github.com/cyrilmottier/GreenDroid  
+03.https://github.com/jfeinstein10/SlidingMenu  
+04.https://github.com/jgilfelt/android-mapviewballoons  
+05.https://github.com/johannilsson/android-actionbar  
+06.https://github.com/mikepenz/AboutLibraries  
+07.https://github.com/nostra13/Android-Universal-Image-Loader  
+08.https://github.com/openaphid/android-flip  
+09.https://github.com/pakerfeldt/android-viewflow  
+10.https://github.com/rampo/UpdateChecker  
+11.https://github.com/JakeWharton/ActionBarSherlock  
+12.https://github.com/JakeWharton/Android-ViewPagerIndicator  
+13.https://github.com/PareshMayani/Contextual-Action-Bar  
+14.https://github.com/SimonVT/android-menudrawer  
 
 Sample App:
 -------------
