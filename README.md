@@ -9,22 +9,38 @@ all-in-one:
 development tool:
 -------------
 01.https://droidpilot.wordpress.com  
+24.https://github.com/commonsguy/cwac-endless  
 02.https://github.com/excilys/androidannotations  
 03.https://github.com/facebook/buck  
-04.https://github.com/google/dagger  
-05.https://github.com/google/j2objc  
-06.https://github.com/loopj/android-async-http  
-07.https://github.com/roboguice/roboguice  
-08.https://github.com/robolectric/robolectric  
-09.https://github.com/square/otto  
-10.https://github.com/AndroidBootstrap/android-bootstrap  
-11.https://github.com/ACRA/acra  
-12.https://github.com/JakeWharton/DiskLruCache  
-13.https://github.com/mttkay/droid-fu  
-14.https://github.com/WhisperSystems/TextSecure  
-15.https://github.com/xamarin/XobotOS  
-16.https://github.com/mttkay/ignition  
-17.https://github.com/commonsguy/cwac-endless  
+04.https://github.com/foxykeep/DataDroid  
+05.https://github.com/google/dagger  
+06.https://github.com/google/j2objc  
+07.https://github.com/greenrobot/greenDAO  
+26.https://github.com/greenrobot/EventBus  
+08.https://github.com/guardianproject/android-ffmpeg  
+31.https://github.com/guardianproject/OnionKit  
+09.https://github.com/havlenapetr/FFMpeg  
+10.https://github.com/halfninja/android-ffmpeg-x264  
+11.https://github.com/jgilfelt/android-adt-templates   
+12.https://github.com/loopj/android-async-http  
+32.https://github.com/marcogulino/AndroidUsbCamera  
+28.https://github.com/mitmel/Android-Image-Cache  
+20.https://github.com/mttkay/droid-fu  
+23.https://github.com/mttkay/ignition  
+27.https://github.com/novoda/RESTProvider  
+25.https://github.com/octo-online/robospice  
+13.https://github.com/roboguice/roboguice  
+14.https://github.com/robolectric/robolectric  
+15.https://github.com/square/otto  
+30.https://github.com/square/tape  
+22.https://github.com/xamarin/XobotOS  
+29.https://github.com/yixia/FFmpeg-Android  
+16.https://github.com/yixia/VitamioBundle  
+33.https://github.com/zouguangxian/andmake   
+17.https://github.com/AndroidBootstrap/android-bootstrap  
+18.https://github.com/ACRA/acra  
+19.https://github.com/JakeWharton/DiskLruCache  
+21.https://github.com/WhisperSystems/TextSecure  
 
 material design:
 -------------
@@ -41,25 +57,33 @@ material design:
 
 plugin:
 -------------
+01.https://github.com/47deg/android-swipelistview  
 01.https://github.com/androidquery/androidquery  
 02.https://github.com/bauerca/drag-sort-listview  
 04.https://github.com/chrisbanes/Android-PullToRefresh  
 05.https://github.com/cyrilmottier/GreenDroid  
+06.https://github.com/jasonpolites/gesture-imageview  
 07.https://github.com/jfeinstein10/SlidingMenu  
 08.https://github.com/jgilfelt/android-mapviewballoons  
 09.https://github.com/johannilsson/android-actionbar  
 10.https://github.com/keyboardsurfer/Crouton  
 11.https://github.com/mikepenz/AboutLibraries  
+12.https://github.com/maurycyw/StaggeredGridView  
 12.https://github.com/nostra13/Android-Universal-Image-Loader  
 13.https://github.com/openaphid/android-flip  
 14.https://github.com/pakerfeldt/android-viewflow  
 15.https://github.com/rampo/UpdateChecker  
+16.https://github.com/siyamed/android-satellite-menu  
 16.https://github.com/tjerkw/Android-SlideExpandableListView  
 17.https://github.com/JakeWharton/ActionBarSherlock  
 18.https://github.com/JakeWharton/Android-ViewPagerIndicator  
 19.https://github.com/JakeWharton/NineOldAndroids  
 20.https://github.com/PareshMayani/Contextual-Action-Bar  
 21.https://github.com/SimonVT/android-menudrawer  
+22.https://github.com/daCapricorn/ArcMenu  
+21.https://github.com/daizhenjun/ImageFilterForAndroid  
+22.https://github.com/dmitry-zaitsev/AndroidSideMenu  
+23.https://github.com/julianshen/ScreenCap 
 
 sample app:
 -------------
@@ -69,6 +93,9 @@ sample app:
 source code:
 -------------
 01.https://github.com/android/platform_packages_apps_settings  
+02.https://github.com/chrislacy/TweetLanes  
 02.https://github.com/github/android  
-03.https://github.com/google/iosched  
-04.https://github.com/github/gauges-android  
+03.https://github.com/github/gauges-android  
+04.https://github.com/google/iosched  
+05.https://github.com/madeye/proxydroid  
+06.https://github.com/tonypujals/droidex  
