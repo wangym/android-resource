@@ -29,18 +29,21 @@ Material Design:
 Plugin:
 -------------
 01.https://github.com/chrisbanes/Android-PullToRefresh  
-02.https://github.com/mikepenz/AboutLibraries  
-03.https://github.com/nostra13/Android-Universal-Image-Loader  
-04.https://github.com/rampo/UpdateChecker  
-05.https://github.com/JakeWharton/ActionBarSherlock  
-06.https://github.com/PareshMayani/Contextual-Action-Bar  
+02.https://github.com/jfeinstein10/SlidingMenu  
+03.https://github.com/mikepenz/AboutLibraries  
+04.https://github.com/nostra13/Android-Universal-Image-Loader  
+05.https://github.com/rampo/UpdateChecker  
+06.https://github.com/JakeWharton/ActionBarSherlock  
+07.https://github.com/JakeWharton/Android-ViewPagerIndicator  
+08.https://github.com/PareshMayani/Contextual-Action-Bar  
 
 Sample App:
 -------------
-01.https://play.google.com/store/apps/details?id=com.desarrollodroide.repos  02.https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect
+01.https://play.google.com/store/apps/details?id=com.desarrollodroide.repos  02.https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect  
 03.https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
 
 Source code:
 -------------
 01.https://github.com/android/platform_packages_apps_settings  
-02.https://github.com/google/iosched  
+02.https://github.com/github/android  
+03.https://github.com/google/iosched  
