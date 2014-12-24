@@ -1,13 +1,10 @@
-android-resource
-================
-
-all-in-one:
+All-in-one:
 -------------
 01.http://goo.gl/3LvnEd  
 02.https://github.com/Trinea/android-open-project  
 03.http://www.csdn.net/article/2014-11-21/2822753-material-design-libs  
 
-development tool:
+Development tool:
 -------------
 01.https://droidpilot.wordpress.com  
 02.https://github.com/androidquery/androidquery  
@@ -44,7 +41,7 @@ development tool:
 33.https://github.com/JakeWharton/DiskLruCache  
 34.https://github.com/WhisperSystems/TextSecure  
 
-material design:
+Material design:
 -------------
 01.https://github.com/balysv/material-menu   
 02.https://github.com/dexafree/MaterialList  
@@ -57,7 +54,7 @@ material design:
 09.https://github.com/rengwuxian/MaterialEditText  
 10.https://github.com/traex/RippleEffect  
 
-plugin:
+UI plugin:
 -------------
 01.https://github.com/47deg/android-swipelistview  
 02.https://github.com/bauerca/drag-sort-listview   
@@ -86,17 +83,17 @@ plugin:
 25.https://github.com/PareshMayani/Contextual-Action-Bar  
 26.https://github.com/SimonVT/android-menudrawer  
 
-sample app:
+Sample app:
 -------------
 01.https://play.google.com/store/apps/details?id=com.desarrollodroide.repos   02.https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect  
 03.https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
 
-source code:
+Source code:
 -------------
 01.https://github.com/android/platform_packages_apps_settings  
 02.https://github.com/chrislacy/TweetLanes  
-02.https://github.com/github/android  
-03.https://github.com/github/gauges-android  
-04.https://github.com/google/iosched  
-05.https://github.com/madeye/proxydroid  
-06.https://github.com/tonypujals/droidex  
+03.https://github.com/github/android  
+04.https://github.com/github/gauges-android  
+05.https://github.com/google/iosched  
+06.https://github.com/madeye/proxydroid  
+07.https://github.com/tonypujals/droidex  
