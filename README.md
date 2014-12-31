@@ -6,7 +6,8 @@ All-in-one:
 
 Development tool:
 -------------
-01.https://android.googlesource.com/platform/frameworks/volley/ [Mirror](https://github.com/mcxiaoke/android-volley)  
+01.https://android.googlesource.com/platform/frameworks/volley/  
+mirror:https://github.com/mcxiaoke/android-volley  
 02.https://droidpilot.wordpress.com  
 03.https://github.com/androidquery/androidquery  
 04.https://github.com/commonsguy/cwac-endless  
@@ -77,12 +78,13 @@ UI plugin:
 18.https://github.com/pakerfeldt/android-viewflow  
 19.https://github.com/rampo/UpdateChecker  
 20.https://github.com/siyamed/android-satellite-menu  
-21.https://github.com/tjerkw/Android-SlideExpandableListView  
-22.https://github.com/JakeWharton/ActionBarSherlock  
-23.https://github.com/JakeWharton/Android-ViewPagerIndicator  
-24.https://github.com/JakeWharton/NineOldAndroids  
-25.https://github.com/PareshMayani/Contextual-Action-Bar  
-26.https://github.com/SimonVT/android-menudrawer  
+21.http://github.com/square/picasso  
+22.https://github.com/tjerkw/Android-SlideExpandableListView  
+23.https://github.com/JakeWharton/ActionBarSherlock  
+24.https://github.com/JakeWharton/Android-ViewPagerIndicator  
+25.https://github.com/JakeWharton/NineOldAndroids  
+26.https://github.com/PareshMayani/Contextual-Action-Bar  
+27.https://github.com/SimonVT/android-menudrawer  
 
 Sample app:
 -------------
