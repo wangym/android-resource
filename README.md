@@ -78,7 +78,7 @@ UI plugin:
 18.https://github.com/pakerfeldt/android-viewflow  
 19.https://github.com/rampo/UpdateChecker  
 20.https://github.com/siyamed/android-satellite-menu  
-21.http://github.com/square/picasso  
+21.https://github.com/square/picasso  
 22.https://github.com/tjerkw/Android-SlideExpandableListView  
 23.https://github.com/JakeWharton/ActionBarSherlock  
 24.https://github.com/JakeWharton/Android-ViewPagerIndicator  
