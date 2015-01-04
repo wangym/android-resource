@@ -32,16 +32,17 @@ mirror:https://github.com/mcxiaoke/android-volley
 23.https://github.com/octo-online/robospice  
 24.https://github.com/roboguice/roboguice  
 25.https://github.com/robolectric/robolectric  
-26.https://github.com/square/otto  
-27.https://github.com/square/tape  
-28.https://github.com/xamarin/XobotOS  
-29.https://github.com/yixia/FFmpeg-Android   
-30.https://github.com/yixia/VitamioBundle  
-31.https://github.com/zouguangxian/andmake  
-32.https://github.com/AndroidBootstrap/android-bootstrap  
-33.https://github.com/ACRA/acra  
-34.https://github.com/JakeWharton/DiskLruCache  
-35.https://github.com/WhisperSystems/TextSecure  
+26.https://github.com/simpligility/android-maven-plugin  
+27.https://github.com/square/otto  
+28.https://github.com/square/tape  
+29.https://github.com/xamarin/XobotOS  
+30.https://github.com/yixia/FFmpeg-Android   
+31.https://github.com/yixia/VitamioBundle  
+32.https://github.com/zouguangxian/andmake  
+33.https://github.com/AndroidBootstrap/android-bootstrap  
+34.https://github.com/ACRA/acra  
+35.https://github.com/JakeWharton/DiskLruCache  
+36.https://github.com/WhisperSystems/TextSecure  
 
 Material design:
 -------------
