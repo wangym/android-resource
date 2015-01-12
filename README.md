@@ -151,7 +151,7 @@ https://github.com/JakeWharton/DiskLruCache
 A secure text messaging application for Android.  
 https://github.com/WhisperSystems/TextSecure  
 
-Material design:
+UI/UX library:
 -------------
 01.https://github.com/balysv/material-menu   
 02.https://github.com/dexafree/MaterialList  
@@ -163,6 +163,7 @@ Material design:
 08.https://github.com/navasmdc/MaterialDesignLibrary  
 09.https://github.com/rengwuxian/MaterialEditText  
 10.https://github.com/traex/RippleEffect  
+11.https://github.com/wasabeef/awesome-android-ui  
 
 UI plugin:
 -------------
