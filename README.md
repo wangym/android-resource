@@ -7,7 +7,8 @@ All-in-one:
 Development tool:
 -------------
 ##### 01.volley
-Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository. https://android.googlesource.com/platform/frameworks/volley/  
+Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository.  
+https://android.googlesource.com/platform/frameworks/volley/  
 unofficial mirror:https://github.com/mcxiaoke/android-volley  
 
 ##### 02.droidpilot
@@ -126,12 +127,29 @@ https://github.com/xamarin/XobotOS
 Building FFmpeg for Android neon, armv7, vfp and armv6, used in VPlayer for Android  
 https://github.com/yixia/FFmpeg-Android   
 
-31.https://github.com/yixia/VitamioBundle  
-32.https://github.com/zouguangxian/andmake  
-33.https://github.com/AndroidBootstrap/android-bootstrap  
-34.https://github.com/ACRA/acra  
-35.https://github.com/JakeWharton/DiskLruCache  
-36.https://github.com/WhisperSystems/TextSecure  
+##### 31.VitamioBundle
+Vitamio for Android http://www.vitamio.org/en/  
+https://github.com/yixia/VitamioBundle  
+
+##### 32.andmake
+CMake toolchain file for android  
+https://github.com/zouguangxian/andmake  
+
+##### 33.android-bootstrap
+A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.  
+https://github.com/AndroidBootstrap/android-bootstrap  
+
+##### 34.acra
+Application Crash Reports for Android  
+https://github.com/ACRA/acra  
+
+##### 35.DiskLruCache
+Java implementation of a Disk-based LRU cache which specifically targets Android compatibility. http://jakewharton.github.io/DiskLruCache  
+https://github.com/JakeWharton/DiskLruCache  
+
+##### 36.TextSecure
+A secure text messaging application for Android.  
+https://github.com/WhisperSystems/TextSecure  
 
 Material design:
 -------------
