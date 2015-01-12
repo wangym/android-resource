@@ -6,10 +6,10 @@ All-in-one:
 
 Development tool:
 -------------
-##### 01.android-volley
+##### 01.volley
 Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository.  
 https://android.googlesource.com/platform/frameworks/volley/  
-mirror:https://github.com/mcxiaoke/android-volley  
+unofficial mirror:https://github.com/mcxiaoke/android-volley  
 
 ##### 02.droidpilot
 DroidPilot is an automated testing tool for Android Native Applications. It can run on both emulator and real devices. The objective of this tool is to perform the automated execution for Android applications’ testing, in order to save the time and effort for manual testing.  
@@ -20,18 +20,33 @@ Android-Query (AQuery) is a light-weight library for doing asynchronous tasks an
 https://github.com/androidquery/androidquery  
 
 ##### 04.cwac-endless
-Fast Android Development. Easy maintainance.  
+CommonsWare Android Components: EndlessAdapter http://commonsware.com/cwac  
 https://github.com/commonsguy/cwac-endless  
 
 ##### 05.androidannotations
-CommonsWare Android Components: EndlessAdapter  
+Fast Android Development. Easy maintainance. http://androidannotations.org  
 https://github.com/excilys/androidannotations  
 
-06.https://github.com/facebook/buck  
-07.https://github.com/foxykeep/DataDroid  
-08.https://github.com/google/dagger  
-09.https://github.com/google/j2objc  
-10.https://github.com/greenrobot/greenDAO  
+##### 06.buck
+A build system for Android (and Java) that encourages the creation of small, reusable modules. http://facebook.github.io/buck/  
+https://github.com/facebook/buck  
+
+##### 07.DataDroid
+An Android Library for data management http://datadroid.foxykeep.com/  
+https://github.com/foxykeep/DataDroid  
+
+##### 08.dagger
+A fast dependency injector for Android and Java.  
+https://github.com/google/dagger  
+
+##### 09.j2objc
+A Java to iOS Objective-C translation tool and runtime. https://code.google.com/p/j2objc/  
+https://github.com/google/j2objc  
+
+##### 10.greenDAO
+greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. http://greendao-orm.com/  
+https://github.com/greenrobot/greenDAO  
+
 11.https://github.com/greenrobot/EventBus  
 12.https://github.com/guardianproject/android-ffmpeg  
 13.https://github.com/guardianproject/OnionKit  
