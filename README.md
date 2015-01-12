@@ -7,8 +7,7 @@ All-in-one:
 Development tool:
 -------------
 ##### 01.volley
-Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository.  
-https://android.googlesource.com/platform/frameworks/volley/  
+Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository. https://android.googlesource.com/platform/frameworks/volley/  
 unofficial mirror:https://github.com/mcxiaoke/android-volley  
 
 ##### 02.droidpilot
@@ -47,26 +46,86 @@ https://github.com/google/j2objc
 greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. http://greendao-orm.com/  
 https://github.com/greenrobot/greenDAO  
 
-11.https://github.com/greenrobot/EventBus  
-12.https://github.com/guardianproject/android-ffmpeg  
-13.https://github.com/guardianproject/OnionKit  
-14.https://github.com/halfninja/android-ffmpeg-x264  
-15.https://github.com/havlenapetr/FFMpeg  
-16.https://github.com/jgilfelt/android-adt-templates  
-17.https://github.com/loopj/android-async-http  
-18.https://github.com/marcogulino/AndroidUsbCamera  
-19.https://github.com/mitmel/Android-Image-Cache  
-20.https://github.com/mttkay/droid-fu  
-21.https://github.com/mttkay/ignition  
-22.https://github.com/novoda/RESTProvider  
-23.https://github.com/octo-online/robospice  
-24.https://github.com/roboguice/roboguice  
-25.https://github.com/robolectric/robolectric  
-26.https://github.com/simpligility/android-maven-plugin  
-27.https://github.com/square/otto  
-28.https://github.com/square/tape  
-29.https://github.com/xamarin/XobotOS  
-30.https://github.com/yixia/FFmpeg-Android   
+##### 11.EventBus
+Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.  
+https://github.com/greenrobot/EventBus  
+
+##### 12.android-ffmpeg
+a system for building custom ffmpeg binaries for Android https://dev.guardianproject.info/projects/android-ffmpeg-java  
+https://github.com/guardianproject/android-ffmpeg  
+
+##### 13.OnionKit
+Hardened HTTPS, better CACerts, Easy Proxy Support and more https://dev.guardianproject.info/projects/onionkit  
+https://github.com/guardianproject/OnionKit  
+
+##### 14.android-ffmpeg-x264
+Android Videokit - basic FFMPEG+X264 build for Android. Pull requests gratefully accepted.  
+https://github.com/halfninja/android-ffmpeg-x264  
+
+##### 15.FFMpeg
+this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)  
+https://github.com/havlenapetr/FFMpeg  
+
+##### 16.android-adt-templates
+A small collection of ADT templates to help quickly scaffold common Activity and UI patterns.  
+https://github.com/jgilfelt/android-adt-templates  
+
+##### 17.android-async-http
+An Asynchronous HTTP Library for Android http://loopj.com/android-async-http/  
+https://github.com/loopj/android-async-http  
+
+##### 18.AndroidUsbCamera
+Android USB Camera Driver/Bridge for GNU/Linux  
+https://github.com/marcogulino/AndroidUsbCamera  
+
+##### 19.Android-Image-Cache
+An image download-and-cacher that also knows how to efficiently generate and retrieve thumbnails of various sizes. http://mobile.mit.edu/  
+https://github.com/mitmel/Android-Image-Cache  
+
+##### 20.droid-fu
+A utility library for your daily Android needs  
+https://github.com/mttkay/droid-fu  
+
+##### 21.ignition
+Kick-starts Android application development.  
+https://github.com/mttkay/ignition  
+
+##### 22.RESTProvider
+REST Provider for Android http://novoda.com  
+https://github.com/ntoll/RESTProvider  
+
+##### 23.robospice
+Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.  
+https://github.com/octo-online/robospice  
+
+##### 24.roboguice
+Google Guice on Android, version 3.0  
+https://github.com/roboguice/roboguice  
+
+##### 25.robolectric
+Android Unit Testing Framework http://robolectric.org/  
+https://github.com/robolectric/robolectric  
+
+##### 26.android-maven-plugin
+Maven Plugin for Android Application development and more http://code.google.com/p/maven-android-plugin  
+https://github.com/simpligility/android-maven-plugin  
+
+##### 27.otto
+An enhanced Guava-based event bus with emphasis on Android support. http://square.github.io/otto/  
+https://github.com/square/otto  
+
+##### 28.tape
+A lightning fast, transactional, file-based FIFO for Android and Java. http://square.github.io/tape/  
+https://github.com/square/tape  
+
+##### 29.XobotOS
+XobotOS - Android ported to C#  
+https://github.com/xamarin/XobotOS  
+
+##### 30.FFmpeg-Android
+Building FFmpeg for Android neon, armv7, vfp and armv6, used in VPlayer for Android  
+https://github.com/yixia/FFmpeg-Android   
+
 31.https://github.com/yixia/VitamioBundle  
 32.https://github.com/zouguangxian/andmake  
 33.https://github.com/AndroidBootstrap/android-bootstrap  
