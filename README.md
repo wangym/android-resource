@@ -153,17 +153,49 @@ https://github.com/WhisperSystems/TextSecure
 
 UI/UX library:
 -------------
-01.https://github.com/balysv/material-menu   
-02.https://github.com/dexafree/MaterialList  
-03.https://github.com/futuresimple/android-floating-action-button  
-04.https://github.com/google/material-design-icons  
-05.https://github.com/ksoichiro/Android-ObservableScrollView  
-06.https://github.com/markushi/android-ui  
-07.https://github.com/mikepenz/Android-LollipopShowcase  
-08.https://github.com/navasmdc/MaterialDesignLibrary  
-09.https://github.com/rengwuxian/MaterialEditText  
-10.https://github.com/traex/RippleEffect  
-11.https://github.com/wasabeef/awesome-android-ui  
+##### 01.material-menu
+Animation port of Android L drawer, back, dismiss and check icons  
+https://github.com/balysv/material-menu  
+
+##### 02.MaterialList  
+An Android library aimed to get the beautiful CardViews that Google shows at its official design specifications  
+https://github.com/dexafree/MaterialList  
+
+##### 03.android-floating-action-button  
+Floating Action Button for Android based on Material Design specification  
+https://github.com/futuresimple/android-floating-action-button  
+
+##### 04.material-design-icons  
+Material Design icons by Google http://google.com/design/spec  
+https://github.com/google/material-design-icons  
+
+##### 05.Android-ObservableScrollView  
+Android library to observe scroll events on scrollable views.  
+https://github.com/ksoichiro/Android-ObservableScrollView  
+
+##### 06.android-ui  
+Android UI library.  
+https://github.com/markushi/android-ui  
+
+##### 07.Android-LollipopShowcase  
+A simple app to showcase Androids Material Design and some of the cool new cool stuff in Android Lollipop. RecyclerView, CardView, ActionBarDrawerToggle, DrawerLayout, Animations, Android Compat Design, Toolbar http://mikepenz.github.io/LollipopShowcase  
+https://github.com/mikepenz/Android-LollipopShowcase  
+
+##### 08.MaterialDesignLibrary  
+This is a library with components of Android L to you use in android 2.2  
+https://github.com/navasmdc/MaterialDesignLibrary  
+
+##### 09.MaterialEditText  
+EditText in Material Design  
+https://github.com/rengwuxian/MaterialEditText  
+
+##### 10.RippleEffect  
+Implementation of Ripple effect from Material Design for Android API 9+  
+https://github.com/traex/RippleEffect  
+
+##### 11.awesome-android-ui  
+A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp  
+https://github.com/wasabeef/awesome-android-ui  
 
 UI plugin:
 -------------
