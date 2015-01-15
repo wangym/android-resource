@@ -208,6 +208,7 @@ Android ListView with drag and drop reordering.
 https://github.com/bauerca/drag-sort-listview   
 
 ##### 03.Android-PullToRefresh  
+DEPRECATED  
 https://github.com/chrisbanes/Android-PullToRefresh  
 
 #### 04.GreenDroid  
