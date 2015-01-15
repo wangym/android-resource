@@ -218,11 +218,25 @@ https://github.com/cyrilmottier/GreenDroid
 An android custom view which looks like the menu in Path 2.0 (for iOS).  
 https://github.com/daCapricorn/ArcMenu  
 
-06.https://github.com/daizhenjun/ImageFilterForAndroid  
-07.https://github.com/dmitry-zaitsev/AndroidSideMenu  
-08.https://github.com/jasonpolites/gesture-imageview  
-09.https://github.com/jfeinstein10/SlidingMenu  
-10.https://github.com/jgilfelt/android-mapviewballoons  
+##### 06.ImageFilterForAndroid  
+https://github.com/daizhenjun/ImageFilterForAndroid  
+
+##### 07.AndroidSideMenu  
+Side menu for android applications  
+https://github.com/dmitry-zaitsev/AndroidSideMenu  
+
+##### 08.gesture-imageview  
+Implements pinch-zoom, rotate, pan as an ImageView for Android 2.1+  
+https://github.com/jasonpolites/gesture-imageview  
+
+##### 09.SlidingMenu  
+An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!  
+https://github.com/jfeinstein10/SlidingMenu  
+
+##### 10.android-mapviewballoons  
+[DEPRECATED] Simple information balloon annotation for Android MapView  
+https://github.com/jgilfelt/android-mapviewballoons  
+
 11.https://github.com/johannilsson/android-actionbar  
 12.https://github.com/julianshen/ScreenCap  
 13.https://github.com/keyboardsurfer/Crouton  
