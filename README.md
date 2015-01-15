@@ -199,11 +199,25 @@ https://github.com/wasabeef/awesome-android-ui
 
 UI plugin:
 -------------
-01.https://github.com/47deg/android-swipelistview  
-02.https://github.com/bauerca/drag-sort-listview   
-03.https://github.com/chrisbanes/Android-PullToRefresh  
-04.https://github.com/cyrilmottier/GreenDroid  
-05.https://github.com/daCapricorn/ArcMenu  
+##### 01.android-swipelistview  
+An Android List View implementation with support for drawable cells and many other swipe related features  
+https://github.com/47deg/android-swipelistview  
+
+##### 02.drag-sort-listview  
+Android ListView with drag and drop reordering.  
+https://github.com/bauerca/drag-sort-listview   
+
+##### 03.Android-PullToRefresh  
+https://github.com/chrisbanes/Android-PullToRefresh  
+
+#### 04.GreenDroid  
+GreenDroid is a development library for the Android platform. It makes UI developments easier and consistent through your applications. http://www.cyrilmottier.com  
+https://github.com/cyrilmottier/GreenDroid  
+
+##### 05.ArcMenu 
+An android custom view which looks like the menu in Path 2.0 (for iOS).  
+https://github.com/daCapricorn/ArcMenu  
+
 06.https://github.com/daizhenjun/ImageFilterForAndroid  
 07.https://github.com/dmitry-zaitsev/AndroidSideMenu  
 08.https://github.com/jasonpolites/gesture-imageview  
