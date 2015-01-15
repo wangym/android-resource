@@ -237,11 +237,26 @@ https://github.com/jfeinstein10/SlidingMenu
 [DEPRECATED] Simple information balloon annotation for Android MapView  
 https://github.com/jgilfelt/android-mapviewballoons  
 
-11.https://github.com/johannilsson/android-actionbar  
-12.https://github.com/julianshen/ScreenCap  
-13.https://github.com/keyboardsurfer/Crouton  
-14.https://github.com/maurycyw/StaggeredGridView  
-15.https://github.com/mikepenz/AboutLibraries  
+##### 11.android-actionbar  
+Android Action Bar Implementation  
+https://github.com/johannilsson/android-actionbar  
+
+##### 12.ScreenCap  
+Screen capture for Android  
+https://github.com/julianshen/ScreenCap  
+
+##### 13.Crouton  
+Context sensitive notifications for Android  
+https://github.com/keyboardsurfer/Crouton  
+
+##### 14.StaggeredGridView  
+A modified version of Android's experimental StaggeredGridView. Includes own OnItemClickListener and OnItemLongClickListener, selector, and fixed position restore. https://github.com/maurycyw/StaggeredGridViewDemo  
+https://github.com/maurycyw/StaggeredGridView  
+
+##### 15.AboutLibraries  
+AboutLibraries is a library to offer some information of libraries. http://mikepenz.github.io/AboutLibraries  
+https://github.com/mikepenz/AboutLibraries  
+
 16.https://github.com/nostra13/Android-Universal-Image-Loader  
 17.https://github.com/openaphid/android-flip  
 18.https://github.com/pakerfeldt/android-viewflow  
