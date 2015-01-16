@@ -31,7 +31,7 @@ https://github.com/excilys/androidannotations
 A build system for Android (and Java) that encourages the creation of small, reusable modules. http://facebook.github.io/buck/  
 https://github.com/facebook/buck  
 
-##### 07.DataDroid
+##### 07.DataDroid  
 An Android Library for data management http://datadroid.foxykeep.com/  
 https://github.com/foxykeep/DataDroid  
 
