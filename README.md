@@ -258,11 +258,26 @@ https://github.com/maurycyw/StaggeredGridView
 AboutLibraries is a library to offer some information of libraries. http://mikepenz.github.io/AboutLibraries  
 https://github.com/mikepenz/AboutLibraries  
 
-16.https://github.com/nostra13/Android-Universal-Image-Loader  
-17.https://github.com/openaphid/android-flip  
-18.https://github.com/pakerfeldt/android-viewflow  
-19.https://github.com/rampo/UpdateChecker  
-20.https://github.com/siyamed/android-satellite-menu  
+##### 16.Android-Universal-Image-Loader  
+Powerful and flexible library for loading, caching and displaying images on Android.  
+https://github.com/nostra13/Android-Universal-Image-Loader  
+
+##### 17.android-flip  
+A component for flip animation on Android, which is similar to the effect in Flipboard iPhone/Android http://openaphid.github.com/  
+https://github.com/openaphid/android-flip  
+
+##### 18.android-viewflow  
+A horizontal view scroller library for Android  
+https://github.com/pakerfeldt/android-viewflow  
+
+##### 19.UpdateChecker  
+Increase your app's updates  
+https://github.com/rampo/UpdateChecker  
+
+##### 20.android-satellite-menu  
+Android Satellite Menu  
+https://github.com/siyamed/android-satellite-menu  
+
 21.https://github.com/square/picasso  
 22.https://github.com/tjerkw/Android-SlideExpandableListView  
 23.https://github.com/JakeWharton/ActionBarSherlock  
