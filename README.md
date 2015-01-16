@@ -197,7 +197,7 @@ https://github.com/traex/RippleEffect
 A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp  
 https://github.com/wasabeef/awesome-android-ui  
 
-UI plugin:
+Widget:
 -------------
 ##### 01.android-swipelistview  
 An Android List View implementation with support for drawable cells and many other swipe related features  
