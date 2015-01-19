@@ -286,9 +286,9 @@ https://github.com/square/picasso
 A better ExpandableListView, with animated expandable views for each list item  
 https://github.com/tjerkw/Android-SlideExpandableListView  
 
-##### ActionBarSherlock  
+##### 23.ActionBarSherlock  
 [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme. http://actionbarsherlock.com  
-23.https://github.com/JakeWharton/ActionBarSherlock  
+https://github.com/JakeWharton/ActionBarSherlock  
 
 ##### 24.Android-ViewPagerIndicator  
 Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. http://viewpagerindicator.com  
@@ -303,8 +303,7 @@ A Contextual action bar (CAB) is a temporary action bar that overlays the app’
 https://github.com/PareshMayani/Contextual-Action-Bar  
 
 ##### 27.android-menudrawer  
-*DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app.  
-http://simonvt.github.com/android-menudrawer/
+*DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/  
 https://github.com/SimonVT/android-menudrawer  
 
 Sample app:
