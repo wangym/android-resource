@@ -278,13 +278,34 @@ https://github.com/rampo/UpdateChecker
 Android Satellite Menu  
 https://github.com/siyamed/android-satellite-menu  
 
-21.https://github.com/square/picasso  
-22.https://github.com/tjerkw/Android-SlideExpandableListView  
+##### 21.picasso  
+A powerful image downloading and caching library for Android http://square.github.io/picasso/  
+https://github.com/square/picasso  
+
+##### 22.Android-SlideExpandableListView  
+A better ExpandableListView, with animated expandable views for each list item  
+https://github.com/tjerkw/Android-SlideExpandableListView  
+
+##### ActionBarSherlock  
+[DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme. http://actionbarsherlock.com  
 23.https://github.com/JakeWharton/ActionBarSherlock  
-24.https://github.com/JakeWharton/Android-ViewPagerIndicator  
-25.https://github.com/JakeWharton/NineOldAndroids  
-26.https://github.com/PareshMayani/Contextual-Action-Bar  
-27.https://github.com/SimonVT/android-menudrawer  
+
+##### 24.Android-ViewPagerIndicator  
+Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. http://viewpagerindicator.com  
+https://github.com/JakeWharton/Android-ViewPagerIndicator  
+
+##### 25.NineOldAndroids  
+[DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! http://nineoldandroids.com  
+https://github.com/JakeWharton/NineOldAndroids  
+
+##### 26.Contextual-Action-Bar  
+A Contextual action bar (CAB) is a temporary action bar that overlays the app’s action bar for the duration of a particular sub-task.  
+https://github.com/PareshMayani/Contextual-Action-Bar  
+
+##### 27.android-menudrawer  
+*DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app.  
+http://simonvt.github.com/android-menudrawer/
+https://github.com/SimonVT/android-menudrawer  
 
 Sample app:
 -------------
