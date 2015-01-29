@@ -298,11 +298,15 @@ https://github.com/JakeWharton/Android-ViewPagerIndicator
 [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! http://nineoldandroids.com  
 https://github.com/JakeWharton/NineOldAndroids  
 
-##### 26.Contextual-Action-Bar  
+##### 26.android-iconify  
+Integration of FontAwesome for Android http://joanzapata.com/android-iconify  
+https://github.com/JoanZapata/android-iconify  
+
+##### 27.Contextual-Action-Bar  
 A Contextual action bar (CAB) is a temporary action bar that overlays the app’s action bar for the duration of a particular sub-task.  
 https://github.com/PareshMayani/Contextual-Action-Bar  
 
-##### 27.android-menudrawer  
+##### 28.android-menudrawer  
 *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/  
 https://github.com/SimonVT/android-menudrawer  
 
