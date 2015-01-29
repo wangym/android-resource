@@ -151,7 +151,7 @@ https://github.com/JakeWharton/DiskLruCache
 A secure text messaging application for Android.  
 https://github.com/WhisperSystems/TextSecure  
 
-UI/UX library:
+Material Design:
 -------------
 ##### 01.material-menu
 Animation port of Android L drawer, back, dismiss and check icons  
@@ -192,10 +192,6 @@ https://github.com/rengwuxian/MaterialEditText
 ##### 10.RippleEffect  
 Implementation of Ripple effect from Material Design for Android API 9+  
 https://github.com/traex/RippleEffect  
-
-##### 11.awesome-android-ui  
-A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp  
-https://github.com/wasabeef/awesome-android-ui  
 
 Widget:
 -------------
@@ -286,27 +282,31 @@ https://github.com/square/picasso
 A better ExpandableListView, with animated expandable views for each list item  
 https://github.com/tjerkw/Android-SlideExpandableListView  
 
-##### 23.ActionBarSherlock  
+##### 23.awesome-android-ui  
+A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp  
+https://github.com/wasabeef/awesome-android-ui  
+
+##### 24.ActionBarSherlock  
 [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme. http://actionbarsherlock.com  
 https://github.com/JakeWharton/ActionBarSherlock  
 
-##### 24.Android-ViewPagerIndicator  
+##### 25.Android-ViewPagerIndicator  
 Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. http://viewpagerindicator.com  
 https://github.com/JakeWharton/Android-ViewPagerIndicator  
 
-##### 25.NineOldAndroids  
+##### 26.NineOldAndroids  
 [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! http://nineoldandroids.com  
 https://github.com/JakeWharton/NineOldAndroids  
 
-##### 26.android-iconify  
+##### 27.android-iconify  
 Integration of FontAwesome for Android http://joanzapata.com/android-iconify  
 https://github.com/JoanZapata/android-iconify  
 
-##### 27.Contextual-Action-Bar  
+##### 28.Contextual-Action-Bar  
 A Contextual action bar (CAB) is a temporary action bar that overlays the app’s action bar for the duration of a particular sub-task.  
 https://github.com/PareshMayani/Contextual-Action-Bar  
 
-##### 28.android-menudrawer  
+##### 29.android-menudrawer  
 *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/  
 https://github.com/SimonVT/android-menudrawer  
 
