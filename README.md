@@ -6,148 +6,163 @@ All-in-one:
 
 Development tool:
 -------------
-##### 01.volley
+##### 01.robotium  
+The world's leading Android™ test automation framework  
+https://code.google.com/p/.robotium/  
+
+##### 02.volley
 Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository.  
 https://android.googlesource.com/platform/frameworks/volley/  
 unofficial mirror:https://github.com/mcxiaoke/android-volley  
 
-##### 02.droidpilot
+##### 03.droidpilot
 DroidPilot is an automated testing tool for Android Native Applications. It can run on both emulator and real devices. The objective of this tool is to perform the automated execution for Android applications’ testing, in order to save the time and effort for manual testing.  
 https://droidpilot.wordpress.com  
 
-##### 03.androidquery
+##### 04.androidquery
 Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android. Our goal is to make Android coding simpler, easier, and more fun!  
 https://github.com/androidquery/androidquery  
 
-##### 04.cwac-endless
+##### 05.cwac-endless
 CommonsWare Android Components: EndlessAdapter http://commonsware.com/cwac  
 https://github.com/commonsguy/cwac-endless  
 
-##### 05.androidannotations
+##### 06.androidannotations
 Fast Android Development. Easy maintainance. http://androidannotations.org  
 https://github.com/excilys/androidannotations  
 
-##### 06.buck
+##### 07.buck
 A build system for Android (and Java) that encourages the creation of small, reusable modules. http://facebook.github.io/buck/  
 https://github.com/facebook/buck  
 
-##### 07.DataDroid  
+##### 08.DataDroid  
 An Android Library for data management http://datadroid.foxykeep.com/  
 https://github.com/foxykeep/DataDroid  
 
-##### 08.dagger
+##### 09.dagger
 A fast dependency injector for Android and Java.  
 https://github.com/google/dagger  
 
-##### 09.j2objc
+##### 10.j2objc
 A Java to iOS Objective-C translation tool and runtime. https://code.google.com/p/j2objc/  
 https://github.com/google/j2objc  
 
-##### 10.greenDAO
+##### 11.greenDAO
 greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. http://greendao-orm.com/  
 https://github.com/greenrobot/greenDAO  
 
-##### 11.EventBus
+##### 12.EventBus
 Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.  
 https://github.com/greenrobot/EventBus  
 
-##### 12.android-ffmpeg
+##### 13.android-ffmpeg
 a system for building custom ffmpeg binaries for Android https://dev.guardianproject.info/projects/android-ffmpeg-java  
 https://github.com/guardianproject/android-ffmpeg  
 
-##### 13.OnionKit
+##### 14.OnionKit
 Hardened HTTPS, better CACerts, Easy Proxy Support and more https://dev.guardianproject.info/projects/onionkit  
 https://github.com/guardianproject/OnionKit  
 
-##### 14.android-ffmpeg-x264
+##### 15.android-ffmpeg-x264
 Android Videokit - basic FFMPEG+X264 build for Android. Pull requests gratefully accepted.  
 https://github.com/halfninja/android-ffmpeg-x264  
 
-##### 15.FFMpeg
+##### 16.FFMpeg
 this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)  
 https://github.com/havlenapetr/FFMpeg  
 
-##### 16.android-adt-templates
+##### 17.android-adt-templates
 A small collection of ADT templates to help quickly scaffold common Activity and UI patterns.  
 https://github.com/jgilfelt/android-adt-templates  
 
-##### 17.android-async-http
+##### 18.android-async-http
 An Asynchronous HTTP Library for Android http://loopj.com/android-async-http/  
 https://github.com/loopj/android-async-http  
 
-##### 18.AndroidUsbCamera
+##### 19.AndroidUsbCamera
 Android USB Camera Driver/Bridge for GNU/Linux  
 https://github.com/marcogulino/AndroidUsbCamera  
 
-##### 19.Android-Image-Cache
+##### 20.Android-Image-Cache
 An image download-and-cacher that also knows how to efficiently generate and retrieve thumbnails of various sizes. http://mobile.mit.edu/  
 https://github.com/mitmel/Android-Image-Cache  
 
-##### 20.droid-fu
+##### 21.droid-fu
 A utility library for your daily Android needs  
 https://github.com/mttkay/droid-fu  
 
-##### 21.ignition
+##### 22.ignition
 Kick-starts Android application development.  
 https://github.com/mttkay/ignition  
 
-##### 22.RESTProvider
+##### 23.RESTProvider
 REST Provider for Android http://novoda.com  
 https://github.com/ntoll/RESTProvider  
 
-##### 23.robospice
+##### 24.robospice
 Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.  
 https://github.com/octo-online/robospice  
 
-##### 24.roboguice
+##### 25.roboguice
 Google Guice on Android, version 3.0  
 https://github.com/roboguice/roboguice  
 
-##### 25.robolectric
+##### 26.robolectric
 Android Unit Testing Framework http://robolectric.org/  
 https://github.com/robolectric/robolectric  
 
-##### 26.android-maven-plugin
+##### 27.android-maven-plugin
 Maven Plugin for Android Application development and more http://code.google.com/p/maven-android-plugin  
 https://github.com/simpligility/android-maven-plugin  
 
-##### 27.otto
+##### 28.ApkAnalyser 
+https://github.com/sonyxperiadev/ApkAnalyser  
+
+##### 29.ChkBugReport  
+A command line tool which parses and converts android bugreport files into more human readable html reports.  
+https://github.com/sonyxperiadev/ChkBugReport  
+
+##### 30.XAppDbg  
+Extra application debugging interface  
+https://github.com/sonyxperiadev/XAppDbg  
+
+##### 31.otto
 An enhanced Guava-based event bus with emphasis on Android support. http://square.github.io/otto/  
 https://github.com/square/otto  
 
-##### 28.tape
+##### 32.tape
 A lightning fast, transactional, file-based FIFO for Android and Java. http://square.github.io/tape/  
 https://github.com/square/tape  
 
-##### 29.XobotOS
+##### 33.XobotOS
 XobotOS - Android ported to C#  
 https://github.com/xamarin/XobotOS  
 
-##### 30.FFmpeg-Android
+##### 34.FFmpeg-Android
 Building FFmpeg for Android neon, armv7, vfp and armv6, used in VPlayer for Android  
 https://github.com/yixia/FFmpeg-Android   
 
-##### 31.VitamioBundle
+##### 35.VitamioBundle
 Vitamio for Android http://www.vitamio.org/en/  
 https://github.com/yixia/VitamioBundle  
 
-##### 32.andmake
+##### 36.andmake
 CMake toolchain file for android  
 https://github.com/zouguangxian/andmake  
 
-##### 33.android-bootstrap
+##### 37.android-bootstrap
 A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.  
 https://github.com/AndroidBootstrap/android-bootstrap  
 
-##### 34.acra
+##### 38.acra
 Application Crash Reports for Android  
 https://github.com/ACRA/acra  
 
-##### 35.DiskLruCache
+##### 39.DiskLruCache
 Java implementation of a Disk-based LRU cache which specifically targets Android compatibility. http://jakewharton.github.io/DiskLruCache  
 https://github.com/JakeWharton/DiskLruCache  
 
-##### 36.TextSecure
+##### 40.TextSecure
 A secure text messaging application for Android.  
 https://github.com/WhisperSystems/TextSecure  
 
@@ -270,50 +285,55 @@ https://github.com/pakerfeldt/android-viewflow
 Increase your app's updates  
 https://github.com/rampo/UpdateChecker  
 
-##### 20.android-satellite-menu  
+##### 20.AndroidAssetStudio  
+A web-based set of tools for generating graphics and other assets that would eventually be in an Android application's res/ directory.  
+https://github.com/romannurik/AndroidAssetStudio  
+
+##### 21.android-satellite-menu  
 Android Satellite Menu  
 https://github.com/siyamed/android-satellite-menu  
 
-##### 21.picasso  
+##### 22.picasso  
 A powerful image downloading and caching library for Android http://square.github.io/picasso/  
 https://github.com/square/picasso  
 
-##### 22.Android-SlideExpandableListView  
+##### 23.Android-SlideExpandableListView  
 A better ExpandableListView, with animated expandable views for each list item  
 https://github.com/tjerkw/Android-SlideExpandableListView  
 
-##### 23.awesome-android-ui  
+##### 24.awesome-android-ui  
 A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp  
 https://github.com/wasabeef/awesome-android-ui  
 
-##### 24.ActionBarSherlock  
+##### 25.ActionBarSherlock  
 [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme. http://actionbarsherlock.com  
 https://github.com/JakeWharton/ActionBarSherlock  
 
-##### 25.Android-ViewPagerIndicator  
+##### 26.Android-ViewPagerIndicator  
 Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. http://viewpagerindicator.com  
 https://github.com/JakeWharton/Android-ViewPagerIndicator  
 
-##### 26.NineOldAndroids  
+##### 27.NineOldAndroids  
 [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! http://nineoldandroids.com  
 https://github.com/JakeWharton/NineOldAndroids  
 
-##### 27.android-iconify  
+##### 28.android-iconify  
 Integration of FontAwesome for Android http://joanzapata.com/android-iconify  
 https://github.com/JoanZapata/android-iconify  
 
-##### 28.Contextual-Action-Bar  
+##### 29.Contextual-Action-Bar  
 A Contextual action bar (CAB) is a temporary action bar that overlays the app’s action bar for the duration of a particular sub-task.  
 https://github.com/PareshMayani/Contextual-Action-Bar  
 
-##### 29.android-menudrawer  
+##### 30.android-menudrawer  
 *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/  
 https://github.com/SimonVT/android-menudrawer  
 
 Sample app:
 -------------
 01.https://play.google.com/store/apps/details?id=com.desarrollodroide.repos   02.https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect  
-03.https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
+03.https://play.google.com/store/apps/details?id=com.sonyericsson.androidapp.AppExplore  
+04.https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
 
 Source code:
 -------------
