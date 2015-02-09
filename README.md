@@ -306,27 +306,31 @@ https://github.com/tjerkw/Android-SlideExpandableListView
 A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp  
 https://github.com/wasabeef/awesome-android-ui  
 
-##### 25.ActionBarSherlock  
+##### 25.android-range-seek-bar
+It provides a SeekBar similar to the default Android one, but with two thumb controls allowing a range to be selected, and some other extras as well.  
+https://github.com/yahoo/android-range-seek-bar  
+
+##### 26.ActionBarSherlock  
 [DEPRECATED] Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme. http://actionbarsherlock.com  
 https://github.com/JakeWharton/ActionBarSherlock  
 
-##### 26.Android-ViewPagerIndicator  
+##### 27.Android-ViewPagerIndicator  
 Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. http://viewpagerindicator.com  
 https://github.com/JakeWharton/Android-ViewPagerIndicator  
 
-##### 27.NineOldAndroids  
+##### 28.NineOldAndroids  
 [DEPRECATED] Android library for using the Honeycomb animation API on all versions of the platform back to 1.0! http://nineoldandroids.com  
 https://github.com/JakeWharton/NineOldAndroids  
 
-##### 28.android-iconify  
+##### 29.android-iconify  
 Integration of FontAwesome for Android http://joanzapata.com/android-iconify  
 https://github.com/JoanZapata/android-iconify  
 
-##### 29.Contextual-Action-Bar  
+##### 30.Contextual-Action-Bar  
 A Contextual action bar (CAB) is a temporary action bar that overlays the app’s action bar for the duration of a particular sub-task.  
 https://github.com/PareshMayani/Contextual-Action-Bar  
 
-##### 30.android-menudrawer  
+##### 31.android-menudrawer  
 *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/  
 https://github.com/SimonVT/android-menudrawer  
 
