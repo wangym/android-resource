@@ -36,134 +36,138 @@ https://github.com/excilys/androidannotations
 A build system for Android (and Java) that encourages the creation of small, reusable modules. http://facebook.github.io/buck/  
 https://github.com/facebook/buck  
 
-##### 08.DataDroid  
+##### 08.stetho
+Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. http://facebook.github.io/stetho/  
+https://github.com/facebook/stetho
+
+##### 09.DataDroid  
 An Android Library for data management http://datadroid.foxykeep.com/  
 https://github.com/foxykeep/DataDroid  
 
-##### 09.dagger
+##### 10.dagger
 A fast dependency injector for Android and Java.  
 https://github.com/google/dagger  
 
-##### 10.j2objc
+##### 11.j2objc
 A Java to iOS Objective-C translation tool and runtime. https://code.google.com/p/j2objc/  
 https://github.com/google/j2objc  
 
-##### 11.greenDAO
+##### 12.greenDAO
 greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. http://greendao-orm.com/  
 https://github.com/greenrobot/greenDAO  
 
-##### 12.EventBus
+##### 13.EventBus
 Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.  
 https://github.com/greenrobot/EventBus  
 
-##### 13.android-ffmpeg
+##### 14.android-ffmpeg
 a system for building custom ffmpeg binaries for Android https://dev.guardianproject.info/projects/android-ffmpeg-java  
 https://github.com/guardianproject/android-ffmpeg  
 
-##### 14.OnionKit
+##### 15.OnionKit
 Hardened HTTPS, better CACerts, Easy Proxy Support and more https://dev.guardianproject.info/projects/onionkit  
 https://github.com/guardianproject/OnionKit  
 
-##### 15.android-ffmpeg-x264
+##### 16.android-ffmpeg-x264
 Android Videokit - basic FFMPEG+X264 build for Android. Pull requests gratefully accepted.  
 https://github.com/halfninja/android-ffmpeg-x264  
 
-##### 16.FFMpeg
+##### 17.FFMpeg
 this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)  
 https://github.com/havlenapetr/FFMpeg  
 
-##### 17.android-adt-templates
+##### 18.android-adt-templates
 A small collection of ADT templates to help quickly scaffold common Activity and UI patterns.  
 https://github.com/jgilfelt/android-adt-templates  
 
-##### 18.android-async-http
+##### 19.android-async-http
 An Asynchronous HTTP Library for Android http://loopj.com/android-async-http/  
 https://github.com/loopj/android-async-http  
 
-##### 19.AndroidUsbCamera
+##### 20.AndroidUsbCamera
 Android USB Camera Driver/Bridge for GNU/Linux  
 https://github.com/marcogulino/AndroidUsbCamera  
 
-##### 20.Android-Image-Cache
+##### 21.Android-Image-Cache
 An image download-and-cacher that also knows how to efficiently generate and retrieve thumbnails of various sizes. http://mobile.mit.edu/  
 https://github.com/mitmel/Android-Image-Cache  
 
-##### 21.droid-fu
+##### 22.droid-fu
 A utility library for your daily Android needs  
 https://github.com/mttkay/droid-fu  
 
-##### 22.ignition
+##### 23.ignition
 Kick-starts Android application development.  
 https://github.com/mttkay/ignition  
 
-##### 23.RESTProvider
+##### 24.RESTProvider
 REST Provider for Android http://novoda.com  
 https://github.com/ntoll/RESTProvider  
 
-##### 24.robospice
+##### 25.robospice
 Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.  
 https://github.com/octo-online/robospice  
 
-##### 25.roboguice
+##### 26.roboguice
 Google Guice on Android, version 3.0  
 https://github.com/roboguice/roboguice  
 
-##### 26.robolectric
+##### 27.robolectric
 Android Unit Testing Framework http://robolectric.org/  
 https://github.com/robolectric/robolectric  
 
-##### 27.android-maven-plugin
+##### 28.android-maven-plugin
 Maven Plugin for Android Application development and more http://code.google.com/p/maven-android-plugin  
 https://github.com/simpligility/android-maven-plugin  
 
-##### 28.ApkAnalyser 
+##### 29.ApkAnalyser 
 https://github.com/sonyxperiadev/ApkAnalyser  
 
-##### 29.ChkBugReport  
+##### 30.ChkBugReport  
 A command line tool which parses and converts android bugreport files into more human readable html reports.  
 https://github.com/sonyxperiadev/ChkBugReport  
 
-##### 30.XAppDbg  
+##### 31.XAppDbg  
 Extra application debugging interface  
 https://github.com/sonyxperiadev/XAppDbg  
 
-##### 31.otto
+##### 32.otto
 An enhanced Guava-based event bus with emphasis on Android support. http://square.github.io/otto/  
 https://github.com/square/otto  
 
-##### 32.tape
+##### 33.tape
 A lightning fast, transactional, file-based FIFO for Android and Java. http://square.github.io/tape/  
 https://github.com/square/tape  
 
-##### 33.XobotOS
+##### 34.XobotOS
 XobotOS - Android ported to C#  
 https://github.com/xamarin/XobotOS  
 
-##### 34.FFmpeg-Android
+##### 35.FFmpeg-Android
 Building FFmpeg for Android neon, armv7, vfp and armv6, used in VPlayer for Android  
 https://github.com/yixia/FFmpeg-Android   
 
-##### 35.VitamioBundle
+##### 36.VitamioBundle
 Vitamio for Android http://www.vitamio.org/en/  
 https://github.com/yixia/VitamioBundle  
 
-##### 36.andmake
+##### 37.andmake
 CMake toolchain file for android  
 https://github.com/zouguangxian/andmake  
 
-##### 37.android-bootstrap
+##### 38.android-bootstrap
 A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.  
 https://github.com/AndroidBootstrap/android-bootstrap  
 
-##### 38.acra
+##### 39.acra
 Application Crash Reports for Android  
 https://github.com/ACRA/acra  
 
-##### 39.DiskLruCache
+##### 40.DiskLruCache
 Java implementation of a Disk-based LRU cache which specifically targets Android compatibility. http://jakewharton.github.io/DiskLruCache  
 https://github.com/JakeWharton/DiskLruCache  
 
-##### 40.TextSecure
+##### 41.TextSecure
 A secure text messaging application for Android.  
 https://github.com/WhisperSystems/TextSecure  
 
