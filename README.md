@@ -1,19 +1,21 @@
 All-in-one:
 -------------
 01.http://blog.jobbole.com/67169/  
-02.http://code.tutsplus.com/categories/android-sdk  
-03.http://goo.gl/3LvnEd  
-04.http://guides.codepath.com/android  
-05.http://stackoverflow.com/questions/tagged/android  
-06.http://www.androidhive.info/  
-07.http://www.csdn.net/article/2014-11-21/2822753-material-design-libs  
-08.http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/  
-09.http://www.lynda.com/  
-10.http://www.tutorialspoint.com/android/  
-11.http://www.vogella.com/tutorials/android.html  
-12.https://developer.android.com/  
-13.https://github.com/Trinea/android-open-project  
+02.http://goo.gl/3LvnEd  
+03.http://www.csdn.net/article/2014-11-21/2822753-material-design-libs  
+04.https://github.com/Trinea/android-open-project  
 
+Training:
+-------------
+01.http://code.tutsplus.com/categories/android-sdk  
+02.http://guides.codepath.com/android  
+03.http://stackoverflow.com/questions/tagged/android  
+04.http://www.androidhive.info/  
+05.http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/  
+06.http://www.lynda.com/  
+07.http://www.tutorialspoint.com/android/  
+08.http://www.vogella.com/tutorials/android.html  
+09.https://developer.android.com/  
 
 Development tool:
 -------------
