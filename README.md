@@ -19,171 +19,187 @@ Training:
 
 Development tool:
 -------------
-##### 01.robotium  
-The world's leading Android™ test automation framework  
-https://code.google.com/p/.robotium/  
-
-##### 02.volley
+##### volley
 Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available through the open AOSP repository.  
 https://android.googlesource.com/platform/frameworks/volley/  
 unofficial mirror:https://github.com/mcxiaoke/android-volley  
 
-##### 03.droidpilot
+##### android-test-kit
+Google's Testing Tools For Android  
+https://code.google.com/p/android-test-kit/  
+
+##### robotium  
+The world's leading Android™ test automation framework  
+https://code.google.com/p/robotium/  
+
+##### uiautomator
+The uiautomator testing framework lets you test your user interface (UI) efficiently by creating automated functional UI testcases that can be run against your app on one or more devices.  
+http://developer.android.com/tools/help/uiautomator/index.html  
+
+##### droidpilot
 DroidPilot is an automated testing tool for Android Native Applications. It can run on both emulator and real devices. The objective of this tool is to perform the automated execution for Android applications’ testing, in order to save the time and effort for manual testing.  
 https://droidpilot.wordpress.com  
 
-##### 04.androidquery
+##### androidquery
 Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android. Our goal is to make Android coding simpler, easier, and more fun!  
 https://github.com/androidquery/androidquery  
 
-##### 05.cwac-endless
+##### appium
+Automation for iOS and Android Apps. http://appium.io  
+https://github.com/appium/appium  
+
+##### calabash-android
+Automated Functional testing for Android based on cucumber http://calaba.sh  
+https://github.com/calabash/calabash-android  
+
+##### cwac-endless
 CommonsWare Android Components: EndlessAdapter http://commonsware.com/cwac  
 https://github.com/commonsguy/cwac-endless  
 
-##### 06.androidannotations
+##### androidannotations
 Fast Android Development. Easy maintainance. http://androidannotations.org  
 https://github.com/excilys/androidannotations  
 
-##### 07.buck
+##### buck
 A build system for Android (and Java) that encourages the creation of small, reusable modules. http://facebook.github.io/buck/  
 https://github.com/facebook/buck  
 
-##### 08.stetho
+##### stetho
 Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. http://facebook.github.io/stetho/  
 https://github.com/facebook/stetho
 
-##### 09.DataDroid  
+##### DataDroid  
 An Android Library for data management http://datadroid.foxykeep.com/  
 https://github.com/foxykeep/DataDroid  
 
-##### 10.dagger
+##### dagger
 A fast dependency injector for Android and Java.  
 https://github.com/google/dagger  
 
-##### 11.j2objc
+##### j2objc
 A Java to iOS Objective-C translation tool and runtime. https://code.google.com/p/j2objc/  
 https://github.com/google/j2objc  
 
-##### 12.greenDAO
+##### greenDAO
 greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases. http://greendao-orm.com/  
 https://github.com/greenrobot/greenDAO  
 
-##### 13.EventBus
+##### EventBus
 Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.  
 https://github.com/greenrobot/EventBus  
 
-##### 14.android-ffmpeg
+##### android-ffmpeg
 a system for building custom ffmpeg binaries for Android https://dev.guardianproject.info/projects/android-ffmpeg-java  
 https://github.com/guardianproject/android-ffmpeg  
 
-##### 15.OnionKit
+##### OnionKit
 Hardened HTTPS, better CACerts, Easy Proxy Support and more https://dev.guardianproject.info/projects/onionkit  
 https://github.com/guardianproject/OnionKit  
 
-##### 16.android-ffmpeg-x264
+##### android-ffmpeg-x264
 Android Videokit - basic FFMPEG+X264 build for Android. Pull requests gratefully accepted.  
 https://github.com/halfninja/android-ffmpeg-x264  
 
-##### 17.FFMpeg
+##### FFMpeg
 this is port of ffmpeg for android (this is app, but in future i will do android lib from it and then system will be able to convert videos automatically)  
 https://github.com/havlenapetr/FFMpeg  
 
-##### 18.android-adt-templates
+##### android-adt-templates
 A small collection of ADT templates to help quickly scaffold common Activity and UI patterns.  
 https://github.com/jgilfelt/android-adt-templates  
 
-##### 19.android-async-http
+##### android-async-http
 An Asynchronous HTTP Library for Android http://loopj.com/android-async-http/  
 https://github.com/loopj/android-async-http  
 
-##### 20.AndroidUsbCamera
+##### AndroidUsbCamera
 Android USB Camera Driver/Bridge for GNU/Linux  
 https://github.com/marcogulino/AndroidUsbCamera  
 
-##### 21.Android-Image-Cache
+##### Android-Image-Cache
 An image download-and-cacher that also knows how to efficiently generate and retrieve thumbnails of various sizes. http://mobile.mit.edu/  
 https://github.com/mitmel/Android-Image-Cache  
 
-##### 22.droid-fu
+##### droid-fu
 A utility library for your daily Android needs  
 https://github.com/mttkay/droid-fu  
 
-##### 23.ignition
+##### ignition
 Kick-starts Android application development.  
 https://github.com/mttkay/ignition  
 
-##### 24.RESTProvider
+##### RESTProvider
 REST Provider for Android http://novoda.com  
 https://github.com/ntoll/RESTProvider  
 
-##### 25.robospice
+##### robospice
 Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.  
 https://github.com/octo-online/robospice  
 
-##### 26.roboguice
+##### roboguice
 Google Guice on Android, version 3.0  
 https://github.com/roboguice/roboguice  
 
-##### 27.robolectric
+##### robolectric
 Android Unit Testing Framework http://robolectric.org/  
 https://github.com/robolectric/robolectric  
 
-##### 28.android-maven-plugin
+##### android-maven-plugin
 Maven Plugin for Android Application development and more http://code.google.com/p/maven-android-plugin  
 https://github.com/simpligility/android-maven-plugin  
 
-##### 29.ApkAnalyser 
+##### ApkAnalyser 
 https://github.com/sonyxperiadev/ApkAnalyser  
 
-##### 30.ChkBugReport  
+##### ChkBugReport  
 A command line tool which parses and converts android bugreport files into more human readable html reports.  
 https://github.com/sonyxperiadev/ChkBugReport  
 
-##### 31.XAppDbg  
+##### XAppDbg  
 Extra application debugging interface  
 https://github.com/sonyxperiadev/XAppDbg  
 
-##### 32.otto
+##### otto
 An enhanced Guava-based event bus with emphasis on Android support. http://square.github.io/otto/  
 https://github.com/square/otto  
 
-##### 33.tape
+##### tape
 A lightning fast, transactional, file-based FIFO for Android and Java. http://square.github.io/tape/  
 https://github.com/square/tape  
 
-##### 34.XobotOS
+##### XobotOS
 XobotOS - Android ported to C#  
 https://github.com/xamarin/XobotOS  
 
-##### 35.FFmpeg-Android
+##### FFmpeg-Android
 Building FFmpeg for Android neon, armv7, vfp and armv6, used in VPlayer for Android  
 https://github.com/yixia/FFmpeg-Android   
 
-##### 36.VitamioBundle
+##### VitamioBundle
 Vitamio for Android http://www.vitamio.org/en/  
 https://github.com/yixia/VitamioBundle  
 
-##### 37.andmake
+##### andmake
 CMake toolchain file for android  
 https://github.com/zouguangxian/andmake  
 
-##### 38.android-bootstrap
+##### android-bootstrap
 A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.  
 https://github.com/AndroidBootstrap/android-bootstrap  
 
-##### 39.acra
+##### acra
 Application Crash Reports for Android  
 https://github.com/ACRA/acra  
 
-##### 40.DiskLruCache
+##### DiskLruCache
 Java implementation of a Disk-based LRU cache which specifically targets Android compatibility. http://jakewharton.github.io/DiskLruCache  
 https://github.com/JakeWharton/DiskLruCache  
 
-##### 41.RoboBinding  
+##### RoboBinding  
 A data-binding Presentation Model(MVVM) framework for the Android platform. http://robobinding.org  
 https://github.com/RoboBinding/RoboBinding  
 
-##### 42.TextSecure
+##### TextSecure
 A secure text messaging application for Android.  
 https://github.com/WhisperSystems/TextSecure  
 
