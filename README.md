@@ -60,6 +60,10 @@ https://github.com/commonsguy/cwac-endless
 Fast Android Development. Easy maintainance. http://androidannotations.org  
 https://github.com/excilys/androidannotations  
 
+##### augmented-traffic-control
+Augmented Traffic Control: A tool to simulate network conditions https://facebook.github.io/augmented-traffic-control  
+https://github.com/facebook/augmented-traffic-control
+
 ##### buck
 A build system for Android (and Java) that encourages the creation of small, reusable modules. http://facebook.github.io/buck/  
 https://github.com/facebook/buck  
