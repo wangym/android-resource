@@ -7,15 +7,16 @@ All-in-one:
 
 Training:
 -------------
-01.http://code.tutsplus.com/categories/android-sdk  
-02.http://guides.codepath.com/android  
-03.http://stackoverflow.com/questions/tagged/android  
-04.http://www.androidhive.info/  
-05.http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/  
-06.http://www.lynda.com/  
-07.http://www.tutorialspoint.com/android/  
-08.http://www.vogella.com/tutorials/android.html  
-09.https://developer.android.com/  
+http://code.tutsplus.com/categories/android-sdk  
+http://guides.codepath.com/android  
+http://stackoverflow.com/questions/tagged/android  
+http://www.androidhive.info/  
+http://www.javacodegeeks.com/tutorials/android-tutorials/android-core-tutorials/  
+http://www.lynda.com/  
+http://www.tutorialspoint.com/android/  
+http://www.vogella.com/tutorials/android.html  
+https://developer.android.com/  
+https://github.com/simple-android-framework-exchange/android_design_patterns_analysis  
 
 Development tool:
 -------------
