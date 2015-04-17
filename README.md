@@ -73,6 +73,10 @@ https://github.com/facebook/buck
 An Android library for managing images and the memory they use. http://frescolib.org/  
 https://github.com/facebook/fresco  
 
+##### network-connection-class
+Listen to current network traffic in the app and categorize the quality of the network.  
+https://github.com/facebook/network-connection-class  
+
 ##### stetho
 Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. http://facebook.github.io/stetho/  
 https://github.com/facebook/stetho
