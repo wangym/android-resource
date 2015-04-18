@@ -69,6 +69,10 @@ https://github.com/facebook/augmented-traffic-control
 A build system for Android (and Java) that encourages the creation of small, reusable modules. http://facebook.github.io/buck/  
 https://github.com/facebook/buck  
 
+##### fb-adb
+A better shell for Android devices  
+https://github.com/facebook/fb-adb  
+
 ##### fresco
 An Android library for managing images and the memory they use. http://frescolib.org/  
 https://github.com/facebook/fresco  
@@ -76,6 +80,10 @@ https://github.com/facebook/fresco
 ##### network-connection-class
 Listen to current network traffic in the app and categorize the quality of the network.  
 https://github.com/facebook/network-connection-class  
+
+##### fb-proguard
+A faster fork of ProGuard. Based off of ProGuard 4.11 (http://sourceforge.net/p/proguard/code/ci/proguard4.11/tree/)  
+https://github.com/facebook/proguard  
 
 ##### stetho
 Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more. http://facebook.github.io/stetho/  
