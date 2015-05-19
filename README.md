@@ -246,6 +246,10 @@ https://github.com/google/material-design-icons
 Android library to observe scroll events on scrollable views.  
 https://github.com/ksoichiro/Android-ObservableScrollView  
 
+##### 06.FloatingActionButton
+Android floating action button  
+https://github.com/makovkastar/FloatingActionButton  
+
 ##### 06.android-ui  
 Android UI library.  
 https://github.com/markushi/android-ui  
