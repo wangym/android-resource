@@ -249,24 +249,25 @@ https://github.com/ksoichiro/Android-ObservableScrollView
 ##### 06.FloatingActionButton
 Android floating action button  
 https://github.com/makovkastar/FloatingActionButton  
+(https://github.com/Clans/FloatingActionButton)  
 
-##### 06.android-ui  
+##### 07.android-ui  
 Android UI library.  
 https://github.com/markushi/android-ui  
 
-##### 07.Android-LollipopShowcase  
+##### 08.Android-LollipopShowcase  
 A simple app to showcase Androids Material Design and some of the cool new cool stuff in Android Lollipop. RecyclerView, CardView, ActionBarDrawerToggle, DrawerLayout, Animations, Android Compat Design, Toolbar http://mikepenz.github.io/LollipopShowcase  
 https://github.com/mikepenz/Android-LollipopShowcase  
 
-##### 08.MaterialDesignLibrary  
+##### 09.MaterialDesignLibrary  
 This is a library with components of Android L to you use in android 2.2  
 https://github.com/navasmdc/MaterialDesignLibrary  
 
-##### 09.MaterialEditText  
+##### 10.MaterialEditText  
 EditText in Material Design  
 https://github.com/rengwuxian/MaterialEditText  
 
-##### 10.RippleEffect  
+##### 11.RippleEffect  
 Implementation of Ripple effect from Material Design for Android API 9+  
 https://github.com/traex/RippleEffect  
 
