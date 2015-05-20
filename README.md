@@ -213,7 +213,8 @@ https://github.com/WhisperSystems/TextSecure
 
 Sample app:
 -------------
-https://play.google.com/store/apps/details?id=com.desarrollodroide.repos   https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect  
+https://play.google.com/store/apps/details?id=com.desarrollodroide.repos  
+https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect  
 https://play.google.com/store/apps/details?id=com.sonyericsson.androidapp.AppExplore  
 https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
 
