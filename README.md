@@ -211,6 +211,22 @@ https://github.com/RoboBinding/RoboBinding
 A secure text messaging application for Android.  
 https://github.com/WhisperSystems/TextSecure  
 
+Sample app:
+-------------
+https://play.google.com/store/apps/details?id=com.desarrollodroide.repos   https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect  
+https://play.google.com/store/apps/details?id=com.sonyericsson.androidapp.AppExplore  
+https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
+
+Source code:
+-------------
+https://github.com/android/platform_packages_apps_settings  
+https://github.com/chrislacy/TweetLanes  
+https://github.com/github/android  
+https://github.com/github/gauges-android  
+https://github.com/google/iosched  
+https://github.com/madeye/proxydroid  
+https://github.com/tonypujals/droidex  
+
 Training:
 -------------
 http://code.tutsplus.com/categories/android-sdk  
@@ -261,10 +277,6 @@ https://github.com/dexafree/MaterialList
 Side menu for android applications  
 https://github.com/dmitry-zaitsev/AndroidSideMenu  
 
-##### android-floating-action-button  
-Floating Action Button for Android based on Material Design specification  
-https://github.com/futuresimple/android-floating-action-button  
-
 ##### material-design-icons  
 Material Design icons by Google http://google.com/design/spec  
 https://github.com/google/material-design-icons  
@@ -299,8 +311,9 @@ https://github.com/ksoichiro/Android-ObservableScrollView
 
 ##### FloatingActionButton
 Android floating action button  
+https://github.com/futuresimple/android-floating-action-button  
 https://github.com/makovkastar/FloatingActionButton  
-(https://github.com/Clans/FloatingActionButton)  
+https://github.com/Clans/FloatingActionButton  
 
 ##### android-ui  
 Android UI library.  
@@ -393,19 +406,3 @@ https://github.com/PareshMayani/Contextual-Action-Bar
 ##### android-menudrawer  
 *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/  
 https://github.com/SimonVT/android-menudrawer  
-
-Sample app:
--------------
-https://play.google.com/store/apps/details?id=com.desarrollodroide.repos   https://play.google.com/store/apps/details?id=com.inappsquared.devappsdirect  
-https://play.google.com/store/apps/details?id=com.sonyericsson.androidapp.AppExplore  
-https://play.google.com/store/apps/details?id=com.ttcode.appdirect  
-
-Source code:
--------------
-https://github.com/android/platform_packages_apps_settings  
-https://github.com/chrislacy/TweetLanes  
-https://github.com/github/android  
-https://github.com/github/gauges-android  
-https://github.com/google/iosched  
-https://github.com/madeye/proxydroid  
-https://github.com/tonypujals/droidex  
