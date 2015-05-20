@@ -2,8 +2,8 @@ All-in-one:
 -------------
 http://blog.jobbole.com/67169/  
 http://csdn.net/article/2014-11-21/2822753-material-design-libs  
-http://goo.gl/3LvnEd  
 https://github.com/Trinea/android-open-project  
+http://goo.gl/3LvnEd  
 
 Development tool:
 -------------
