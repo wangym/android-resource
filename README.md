@@ -354,13 +354,13 @@ https://github.com/siyamed/android-satellite-menu
 A powerful image downloading and caching library for Android http://square.github.io/picasso/  
 https://github.com/square/picasso  
 
-##### RippleEffect  
-Implementation of Ripple effect from Material Design for Android API 9+  
-https://github.com/traex/RippleEffect  
-
 ##### Android-SlideExpandableListView  
 A better ExpandableListView, with animated expandable views for each list item  
 https://github.com/tjerkw/Android-SlideExpandableListView  
+
+##### RippleEffect  
+Implementation of Ripple effect from Material Design for Android API 9+  
+https://github.com/traex/RippleEffect  
 
 ##### awesome-android-ui  
 A curated list of awesome Android UI/UX libraries https://twitter.com/wasabeef_jp  
