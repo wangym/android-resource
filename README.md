@@ -145,6 +145,10 @@ https://github.com/ntoll/RESTProvider
 Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy. It is specialized in network requests, supports caching and offers REST requests out-of-the box using extension modules.  
 https://github.com/octo-online/robospice  
 
+##### android-obd-reader
+Android OBD-II Reader application that uses pure OBD-II PID's Java API.  
+https://github.com/pires/android-obd-reader  
+
 ##### roboguice
 Google Guice on Android, version 3.0  
 https://github.com/roboguice/roboguice  
