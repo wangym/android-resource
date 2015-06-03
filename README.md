@@ -161,6 +161,10 @@ https://github.com/robolectric/robolectric
 Maven Plugin for Android Application development and more http://code.google.com/p/maven-android-plugin  
 https://github.com/simpligility/android-maven-plugin  
 
+##### jadx  
+Dex to Java decompiler  
+https://github.com/skylot/jadx  
+
 ##### ApkAnalyser 
 https://github.com/sonyxperiadev/ApkAnalyser  
 
@@ -204,6 +208,10 @@ https://github.com/AndroidBootstrap/android-bootstrap
 Application Crash Reports for Android  
 https://github.com/ACRA/acra  
 
+##### MultiThreadDownloader  
+A useful Downloader for Andorid implement multi thread and break-point download.  
+https://github.com/AigeStudio/MultiThreadDownloader  
+
 ##### DiskLruCache
 Java implementation of a Disk-based LRU cache which specifically targets Android compatibility. http://jakewharton.github.io/DiskLruCache  
 https://github.com/JakeWharton/DiskLruCache  
@@ -244,6 +252,7 @@ http://www.lynda.com/
 http://www.tutorialspoint.com/android/  
 http://www.vogella.com/tutorials/android.html  
 https://developer.android.com/  
+https://github.com/chrisbanes/cheesesquare  
 https://github.com/simple-android-framework-exchange/android_design_patterns_analysis  
 
 Widget:
