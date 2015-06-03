@@ -421,3 +421,14 @@ https://github.com/PareshMayani/Contextual-Action-Bar
 ##### android-menudrawer  
 *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. http://simonvt.github.com/android-menudrawer/  
 https://github.com/SimonVT/android-menudrawer  
+
+##### Android Official  
+AppBarLayout: AppBarLayout is a vertical LinearLayout which implements many of the features of material designs app bar concept, namely scrolling gestures.  
+- CollapsingToolbarLayout: http://ww2.sinaimg.cn/large/610dc034gw1eslfqhnn1lg208w08whdt.gif  
+- CoordinatorLayout: http://developer.android.com/reference/android/support/design/widget/CoordinatorLayout.html  
+- FloatingActionButton: https://github.com/shell-software/fab  
+- NavigationView: http://developer.android.com/reference/android/support/design/widget/NavigationView.html  
+- Snackbar: https://github.com/MrEngineer13/SnackBar  
+- TabLayout: http://developer.android.com/reference/android/support/design/widget/TabLayout.html  
+- TextInputLayout: https://github.com/wrapp/floatlabelededittext  
+See more: http://android-developers.blogspot.fi/2015/05/android-design-support-library.html  
