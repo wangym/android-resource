@@ -252,6 +252,7 @@ http://www.lynda.com/
 http://www.tutorialspoint.com/android/  
 http://www.vogella.com/tutorials/android.html  
 https://developer.android.com/  
+https://developer.android.com/tools/data-binding/guide.html  
 https://github.com/bboyfeiyu/android-tech-frontier/tree/master/issue-12  
 https://github.com/chrisbanes/cheesesquare  
 https://github.com/simple-android-framework-exchange/android_design_patterns_analysis  
