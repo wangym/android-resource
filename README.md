@@ -297,6 +297,7 @@ https://github.com/dmitry-zaitsev/AndroidSideMenu
 ##### material-design-icons  
 Material Design icons by Google http://google.com/design/spec  
 https://github.com/google/material-design-icons  
+http://www.google.com/design/icons/  
 
 ##### gesture-imageview  
 Implements pinch-zoom, rotate, pan as an ImageView for Android 2.1+  
