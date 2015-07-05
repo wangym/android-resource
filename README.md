@@ -29,6 +29,10 @@ http://developer.android.com/tools/help/uiautomator/index.html
 DroidPilot is an automated testing tool for Android Native Applications. It can run on both emulator and real devices. The objective of this tool is to perform the automated execution for Android applications’ testing, in order to save the time and effort for manual testing.  
 https://droidpilot.wordpress.com  
 
+##### dexposed  
+dexposed enable 'god' mode for single android application.  
+https://github.com/alibaba/dexposed
+
 ##### androidquery
 Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android. Our goal is to make Android coding simpler, easier, and more fun!  
 https://github.com/androidquery/androidquery  
