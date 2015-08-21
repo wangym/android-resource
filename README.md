@@ -208,6 +208,10 @@ https://github.com/yixia/VitamioBundle
 CMake toolchain file for android  
 https://github.com/zouguangxian/andmake  
 
+##### Rythem
+a fiddler-like project using Qt   
+https://github.com/AlloyTeam/Rythem    
+
 ##### android-bootstrap
 A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.  
 https://github.com/AndroidBootstrap/android-bootstrap  
