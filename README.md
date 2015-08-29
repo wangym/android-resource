@@ -236,6 +236,28 @@ https://github.com/RoboBinding/RoboBinding
 A secure text messaging application for Android.  
 https://github.com/WhisperSystems/TextSecure  
 
+Reverse Engineering-RE:
+-------------
+##### androguard
+Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)  
+https://github.com/androguard/androguard  
+
+##### enjarify
+Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.  
+https://github.com/google/enjarify 
+
+##### dex2jar
+Tools to work with android .dex and java .class files  
+https://github.com/pxb1988/dex2jar  
+
+##### jadx
+Dex to Java decompiler  
+https://github.com/skylot/jadx  
+
+##### jd-gui
+Yet another fast Java decompiler  
+http://jd.benow.ca/  
+
 Sample app:
 -------------
 https://play.google.com/store/apps/details?id=com.desarrollodroide.repos  
