@@ -33,6 +33,10 @@ https://droidpilot.wordpress.com
 dexposed enable 'god' mode for single android application.  
 https://github.com/alibaba/dexposed
 
+##### AndFix
+AndFix is a library that offer hot-fix for Android App.  
+https://github.com/alibaba/AndFix
+
 ##### androidquery
 Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android. Our goal is to make Android coding simpler, easier, and more fun!  
 https://github.com/androidquery/androidquery  
