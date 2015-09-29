@@ -90,6 +90,10 @@ https://github.com/facebook/stetho
 An Android Library for data management http://datadroid.foxykeep.com/  
 https://github.com/foxykeep/DataDroid  
 
+##### LoonAndroid
+整个框架式不同于androidannotations，Roboguice等ioc框架，这是一个类似spring的实现方式。在整应用的生命周期中找到切入点，然后对activity的生命周期进行拦截，然后插入自己的功能。  
+https://github.com/gdpancheng/LoonAndroid  
+
 ##### dagger
 A fast dependency injector for Android and Java.  
 https://github.com/google/dagger  
