@@ -197,6 +197,10 @@ https://github.com/square/tape
 Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons, own "drawable repos" and scale a certain image down/up to the defined resolutions.  
 https://github.com/winterDroid/android-drawable-importer-intellij-plugin  
 
+##### xUtils  
+android orm, bitmap, http, view inject...  
+https://github.com/wyouflf/xUtils  
+
 ##### XobotOS
 XobotOS - Android ported to C#  
 https://github.com/xamarin/XobotOS  
