@@ -249,6 +249,10 @@ https://github.com/AigeStudio/MultiThreadDownloader
 Java implementation of a Disk-based LRU cache which specifically targets Android compatibility. http://jakewharton.github.io/DiskLruCache  
 https://github.com/JakeWharton/DiskLruCache  
 
+##### DroidPlugin  
+A plugin framework on android,Run any third-party apk without installation, modification or repackage  
+https://github.com/Qihoo360/DroidPlugin  
+
 ##### RoboBinding  
 A data-binding Presentation Model(MVVM) framework for the Android platform. http://robobinding.org  
 https://github.com/RoboBinding/RoboBinding  
