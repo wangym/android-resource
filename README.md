@@ -46,6 +46,10 @@ https://github.com/androidquery/androidquery
 Automation for iOS and Android Apps. http://appium.io  
 https://github.com/appium/appium  
 
+##### glide
+An image loading and caching library for Android focused on smooth scrolling  
+https://github.com/bumptech/glide  
+
 ##### calabash-android
 Automated Functional testing for Android based on cucumber http://calaba.sh  
 https://github.com/calabash/calabash-android  
