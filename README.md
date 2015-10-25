@@ -178,6 +178,10 @@ https://github.com/robolectric/robolectric
 Maven Plugin for Android Application development and more http://code.google.com/p/maven-android-plugin  
 https://github.com/simpligility/android-maven-plugin  
 
+##### dynamic-load-apk
+DL : dynamic load framework in android http://blog.csdn.net/singwhatiwanna/article/details/40283117  
+https://github.com/singwhatiwanna/dynamic-load-apk  
+
 ##### jadx  
 Dex to Java decompiler  
 https://github.com/skylot/jadx  
